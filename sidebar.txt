@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dim:home|Door43 (dim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dim|d43-dim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dim/archive/master.zip|d43-dim.zip]]
+
+**Recent Changes**
+{{changes>ns = dim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dim|Ethnologue data]]
+
